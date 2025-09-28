@@ -12,15 +12,15 @@ This repository contains a collection of experiments focused on Reinforcement Le
 - Markov Decision Processes (MDPs)
 
 🔧 Technologies Used
-Python
-OpenAI Gym
-NumPy
-Pandas
-Matplotlib (for visualizations)
-Jupyter Notebooks
+- Python
+- OpenAI Gym
+- NumPy
+- Pandas
+- Matplotlib (for visualizations)
+- Jupyter Notebooks
 
-📚 Learning Objectives
-Understand and implement core RL concepts.
-Explore action-selection strategies in stochastic environments.
-Gain hands on experience with MDPs and dynamic programming techniques.
-Apply RL to real-world inspired problems like ad optimization and robotics.
+📚 Learning Objectives 
+- Understand and implement core RL concepts.
+- Explore action-selection strategies in stochastic environments.
+- Gain hands on experience with MDPs and dynamic programming techniques.
+- Apply RL to real world inspired problems like ad optimization and robotics.
